@@ -17,7 +17,7 @@ const Team = () => {
           <div className="relative rounded-lg overflow-hidden shadow-2xl">
             <img 
               src={teamWinston} 
-              alt="Equipo Winston Abogados" 
+              alt="Equipo Abogados en Línea" 
               className="w-full h-auto"
             />
           </div>
@@ -27,7 +27,7 @@ const Team = () => {
               <div className="mb-4">
                 <div className="w-16 h-1 bg-accent mb-4"></div>
                 <h3 className="font-playfair text-2xl font-bold text-foreground mb-2">
-                  Dra. María Fernández
+                  Alejandra Blanco
                 </h3>
                 <p className="font-inter text-primary font-semibold mb-3">
                   Socia Fundadora | Especialista en Derecho Civil
@@ -42,7 +42,7 @@ const Team = () => {
               <div className="mb-4">
                 <div className="w-16 h-1 bg-accent mb-4"></div>
                 <h3 className="font-playfair text-2xl font-bold text-foreground mb-2">
-                  Lic. Roberto Mendoza
+                  Winston Díaz
                 </h3>
                 <p className="font-inter text-primary font-semibold mb-3">
                   Socio | Especialista en Derecho Empresarial

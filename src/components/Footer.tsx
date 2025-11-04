@@ -11,9 +11,9 @@ const Footer = () => {
           {/* Logo & Description */}
           <div className="md:col-span-2">
             <div className="flex items-center gap-3 mb-4">
-              <img src={logoWinston} alt="Winston Abogados" className="h-12 w-12 rounded-full" />
+              <img src={logoWinston} alt="Abogados en Línea" className="h-12 w-12 rounded-full" />
               <div>
-                <h3 className="font-playfair text-xl font-bold">Winston Abogados</h3>
+                <h3 className="font-playfair text-xl font-bold">Abogados en Línea</h3>
                 <p className="text-xs opacity-90 font-inter">Nicaragua</p>
               </div>
             </div>
@@ -82,7 +82,7 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/20 pt-8 mt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="font-inter text-sm opacity-90">
-              © {currentYear} Winston Abogados. Todos los derechos reservados.
+              © {currentYear} Abogados en Línea. Todos los derechos reservados.
             </p>
             <div className="flex gap-6 font-inter text-sm">
               <a href="#" className="opacity-90 hover:opacity-100 transition-opacity">

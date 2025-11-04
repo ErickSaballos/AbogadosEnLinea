@@ -16,9 +16,9 @@ const Header = () => {
     <header className="fixed top-0 w-full bg-background/95 backdrop-blur-sm border-b border-border z-50">
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center gap-3">
-          <img src={logoWinston} alt="Winston Abogados" className="h-12 w-12 rounded-full" />
+          <img src={logoWinston} alt="Abogados en Línea" className="h-12 w-12 rounded-full" />
           <div>
-            <h1 className="font-playfair text-xl font-bold text-primary">Winston Abogados</h1>
+            <h1 className="font-playfair text-xl font-bold text-primary">Abogados en Línea</h1>
             <p className="text-xs text-muted-foreground font-inter">Nicaragua</p>
           </div>
         </div>
