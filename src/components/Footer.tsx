@@ -68,12 +68,12 @@ const Footer = () => {
               <a href="#" className="p-2 bg-primary-foreground/10 rounded-lg hover:bg-primary-foreground/20 transition-colors">
                 <Linkedin className="h-5 w-5" />
               </a>
-              <a href="mailto:contacto@winstonabogados.com" className="p-2 bg-primary-foreground/10 rounded-lg hover:bg-primary-foreground/20 transition-colors">
+              <a href="mailto:contacto@abogadosenlinea.com" className="p-2 bg-primary-foreground/10 rounded-lg hover:bg-primary-foreground/20 transition-colors">
                 <Mail className="h-5 w-5" />
               </a>
             </div>
             <p className="font-inter text-sm opacity-90">
-              contacto@winstonabogados.com
+              contacto@abogadosenlinea.com
             </p>
           </div>
         </div>

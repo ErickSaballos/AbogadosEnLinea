@@ -61,8 +61,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-inter font-semibold text-foreground mb-1">Email</h3>
-                    <p className="font-inter text-muted-foreground">contacto@winstonabogados.com</p>
-                    <p className="font-inter text-muted-foreground">info@winstonabogados.com</p>
+                    <p className="font-inter text-muted-foreground">contacto@abogadosenlinea.com</p>
+                    <p className="font-inter text-muted-foreground">info@abogadosenlinea.com</p>
                   </div>
                 </div>
               </CardContent>

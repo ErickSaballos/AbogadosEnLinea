@@ -10,7 +10,7 @@ const About = () => {
           <div className="relative">
             <img 
               src={officeInterior} 
-              alt="Oficina Winston Abogados" 
+              alt="Oficina Abogados en Línea" 
               className="rounded-lg shadow-2xl w-full h-[500px] object-cover"
             />
             <div className="absolute -bottom-6 -right-6 bg-accent text-accent-foreground p-6 rounded-lg shadow-xl">
@@ -22,7 +22,7 @@ const About = () => {
           {/* Content */}
           <div>
             <h2 className="font-playfair text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Sobre Winston Abogados
+              Sobre Abogados en Línea
             </h2>
             <p className="font-inter text-lg text-muted-foreground mb-6 leading-relaxed">
               Somos un bufete de abogados con más de dos décadas de experiencia defendiendo los intereses de nuestros clientes con integridad y profesionalismo. Nuestro compromiso es brindar asesoría jurídica de excelencia, adaptada a las necesidades específicas de cada caso.
